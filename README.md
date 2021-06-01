@@ -6,7 +6,7 @@
 ![Bikrant's github stats](https://github-readme-stats.vercel.app/api?username=bikrantbdr&show_icons=true&theme=radical)
 ----------------------
 ----------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikrantbdr)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikrantbdr&theme=radical)
 
 Find me on:
 ---
