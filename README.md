@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning machine learning using python along with some frontend web development.
+🌱 In a learning process.
 
 
 ![Bikrant's github stats](https://github-readme-stats.vercel.app/api?username=bikrantbdr&show_icons=true&theme=radical)
