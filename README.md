@@ -5,9 +5,13 @@
 
 👨‍💻 Contact me on : bikrantbdr@gmail.com
 
-
-![Bikrant's github stats](https://github-readme-stats.vercel.app/api?username=bikrantbdr&show_icons=true&theme=radical)
 ----------------------
-
+<hr>
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=bikrantbdr&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+<hr>
+<hr>
 
